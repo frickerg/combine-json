@@ -171,7 +171,12 @@
 			"role": "Ermöglicher",
 			"type": "Firma",
 			"description": "Integrationsleistungen",
-			"hierarchy": "Abteilung"
+			"hierarchy": "Abteilung",
+			"address": {
+				"street": "Röntgenstrasse 17",
+				"zip": 8087,
+				"area": "Zürich"
+			}
 		},
 		{
 			"id": 1050,
@@ -191,7 +196,12 @@
 			"role": "Ermöglicher",
 			"type": "Firma",
 			"description": "Regelsozialhilfe",
-			"hierarchy": "Abteilung"
+			"hierarchy": "Abteilung",
+			"address": {
+				"street": "Obfelderstrasse 41b",
+				"zip": 8910,
+				"area": "Affoltern"
+			}
 		},
 		{
 			"id": 1061,
